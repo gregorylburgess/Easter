@@ -1,0 +1,2 @@
+source easter_env/bin/activate
+export DATABASE_URL=postgres://dbm:dbm@localhost:5432/easter
